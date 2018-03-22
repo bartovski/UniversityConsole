@@ -1,0 +1,9 @@
+INSERT INTO public.lector (id, degree_id, name, salary) VALUES (4, 3, 'Charles Xavier', 5000);
+INSERT INTO public.lector (id, degree_id, name, salary) VALUES (2, 1, 'Tony Stark', 10);
+INSERT INTO public.lector (id, degree_id, name, salary) VALUES (5, 1, 'Paper Potts', 100000);
+INSERT INTO public.lector (id, degree_id, name, salary) VALUES (1, 3, 'Bruce Banner', 15000);
+INSERT INTO public.lector (id, degree_id, name, salary) VALUES (3, 2, 'Stephen Strange', null);
+INSERT INTO public.lector (id, degree_id, name, salary) VALUES (6, 2, 'Matthew Murdock', 80000);
+INSERT INTO public.lector (id, degree_id, name, salary) VALUES (7, 1, 'Steven Rogers', null);
+INSERT INTO public.lector (id, degree_id, name, salary) VALUES (8, 1, 'Carol Danvers', null);
+INSERT INTO public.lector (id, degree_id, name, salary) VALUES (9, 2, 'Peter Parker', 30000);
